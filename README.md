@@ -54,12 +54,12 @@ pip install -r requirements.txt
 ```
 
 ### 2. nuScenes Dataset Preparation
-**Step 1.** Download [NuScenes](https://www.nuscenes.org/download) dataset to `./data/nuScenes`.
+**Step 1.** Download [NuScenes](https://www.nuscenes.org/download) dataset to `./data/nuscenes`.
 
 **Step 2.** Generate annotation files for NuScenes dataset.
 
 ```
-python tools/nuscenes_converter.py --data-root ./data/nuScenes --newsplit
+python tools/nuscenes_converter.py --data-root ./data/nuscenes --newsplit
 ```
 
 ### 3. Training and Validating
