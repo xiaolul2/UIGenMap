@@ -1,0 +1,2 @@
+from .MapDetectorHead import MapDetectorHead
+from .MapDetectorHead_2D import MapDetectorHead_2D
