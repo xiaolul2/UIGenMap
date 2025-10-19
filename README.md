@@ -75,6 +75,9 @@ To validate a model with 2 GPUs:
 bash tools/dist_test.sh ${CONFIG} ${CEHCKPOINT} 2 --eval
 ```
 
+Pretrained [pv_det.pth](https://drive.google.com/file/d/1X4pZ4Hppzied8Pfc39iKSEYLRhCGjPLg/view?usp=drive_link).
+
+Result [checkpoint](https://drive.google.com/file/d/1wviaA1NPNpGvB1VSjeAkpHPrFJ90F3lr/view?usp=sharing) and [training log](https://drive.google.com/file/d/1IHAeAtaQ_Y-_QLRYWytxac6v4tN0DWcb/view?usp=sharing).
 
 
 ## Acknowledgements
